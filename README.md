@@ -1,2 +1,1 @@
-# travel-page
-'100 Days Of Code - 2025 Web Development Bootcamp' From Udemy
+This repository contains all progress related to the 'Travel Page' project, completed as part of the Udemy course 100 Days of Code – 2025 Web Development Bootcamp by Maximilian Schwarzmüller (AWS Certified, Professional Web Developer & Instructor) and Manuel Lorenz (Professional Business Analyst & Instructor).
